@@ -1,0 +1,14 @@
+# ninja log v5
+7	640	6909372536494651	CMakeFiles/technical_part.dir/main.cpp.obj	d1c3b66f390a08b
+8	353	6907198138574929	build.ninja	fcc0fc2b0b25c09f
+11	1552	6909282594306705	CMakeFiles/technical_part.dir/Window.cpp.obj	5633729a4a046e41
+641	797	6909372537974991	technical_part.exe	619f8037b5a68942
+977	1883	6909282597656401	CMakeFiles/technical_part.dir/ListOfWindows.cpp.obj	ebb5e966c5c14f38
+1002	1784	6909282596636589	CMakeFiles/technical_part.dir/Iterator.cpp.obj	5f55550d820c01c7
+6	976	6909282588556437	CMakeFiles/technical_part.dir/Rectangle.cpp.obj	5740b237f5eb0e5a
+5	588	6909500238579199	CMakeFiles/technical_part.dir/main.cpp.obj	d1c3b66f390a08b
+589	751	6909500240168772	technical_part.exe	619f8037b5a68942
+6	526	6909506163698985	CMakeFiles/technical_part.dir/main.cpp.obj	d1c3b66f390a08b
+528	681	6909506165180027	technical_part.exe	619f8037b5a68942
+8	749	6909518954475467	CMakeFiles/technical_part.dir/main.cpp.obj	d1c3b66f390a08b
+750	947	6909518956415381	technical_part.exe	619f8037b5a68942

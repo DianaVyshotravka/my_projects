@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "technical_part",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "technical_part::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-technical_part-Debug-62d3192584c036dcfa48.json",
+					"name" : "technical_part",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/\u043d\u0443\u043b\u043f/\u043e\u043e\u043f/\u043a\u0443\u0440\u0441\u0430\u0447/technical_part/cmake-build-debug",
+		"source" : "D:/\u043d\u0443\u043b\u043f/\u043e\u043e\u043f/\u043a\u0443\u0440\u0441\u0430\u0447/technical_part"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

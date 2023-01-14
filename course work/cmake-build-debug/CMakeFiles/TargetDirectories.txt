@@ -1,0 +1,3 @@
+D:/нулп/ооп/курсач/technical_part/cmake-build-debug/CMakeFiles/technical_part.dir
+D:/нулп/ооп/курсач/technical_part/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/нулп/ооп/курсач/technical_part/cmake-build-debug/CMakeFiles/rebuild_cache.dir
