@@ -1,0 +1,3 @@
+D:/моє/c++/arrays of char symbols/cmake-build-debug/CMakeFiles/arrays_of_char_symbols.dir
+D:/моє/c++/arrays of char symbols/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/моє/c++/arrays of char symbols/cmake-build-debug/CMakeFiles/rebuild_cache.dir
