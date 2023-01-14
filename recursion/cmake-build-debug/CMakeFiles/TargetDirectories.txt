@@ -1,0 +1,3 @@
+D:/моє/c++/recursion/cmake-build-debug/CMakeFiles/recursion.dir
+D:/моє/c++/recursion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/моє/c++/recursion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
